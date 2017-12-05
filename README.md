@@ -1,5 +1,5 @@
 # react leaflet
-[Live Demo](https://react-leaflet.stackblitz.io)
+[Live Demo](https://react-leaflet.stackblitz.io),
 [Live Edit](https://stackblitz.com/edit/react-leaflet)
 
 ## About
